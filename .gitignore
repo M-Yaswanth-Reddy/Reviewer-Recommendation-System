@@ -7,7 +7,7 @@ env/
 venv/
 
 # Data
-data/*.pkl
+
 temp_*.pdf
 
 # IDE
